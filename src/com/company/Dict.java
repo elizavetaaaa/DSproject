@@ -17,7 +17,7 @@ public class Dict {
 
     public Dict() {
         dict.put(0, new Question("<html>What Indian city is the capital <br> of two states?<br><br/>a) Chandigarh<br/>b) Mumbai<br/>c) Kolkata <br/>d) Chennai</html>", "a"));
-        dict.put(1, new Question("<html>How many countries border India?<br/><br/>a) 7<br/>b) 14<br/>c) 7<br/>d) 8</html>", "c"));
+        dict.put(1, new Question("<html>How many countries border India?<br/><br/>a) 6<br/>b) 14<br/>c) 7<br/>d) 8</html>", "c"));
         dict.put(2, new Question("<html>What is the capital of Gujarat?<br/> <br/>a) Peshawar<br/>b)  Gandhinagar<br/>c)Bhopal <br/>d)Mumbai</html>", "b"));
         dict.put(3, new Question("<html>IT capital of India? <br/> <br/>a)Bangalor<br/>b)Delhi<br/>c)Mumbai<br/>d)Kerala</html>", "a"));
         dict.put(4, new Question("<html>Who was the president of India in 2009?<br/> <br/>a)Indira Gandhi<br/>b)Govinda Singh<br/>c)Jawaharlal Nehru<br/>d)Smt. Pratibha Devisingh Patil</html>", "d"));
